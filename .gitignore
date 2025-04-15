@@ -1,0 +1,32 @@
+# === Python-related ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+myenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Secret environment variables
+.env
+
+# Jupyter notebook runtime
+*.nbconvert.ipynb
+*.egg-info/
+*.log
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# Byte-compiled and cache directories
+*.bak
+*.swp
